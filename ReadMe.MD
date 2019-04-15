@@ -1,0 +1,2 @@
+[Syncing while google drive](https://unix.stackexchange.com/questions/136371/how-to-download-a-folder-from-google-drive-using-terminal/332277)
+[Displaying local slideshow](https://opensource.com/article/19/2/wifi-picture-frame-raspberry-pi)
